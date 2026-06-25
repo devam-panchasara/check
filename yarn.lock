@@ -1328,7 +1328,7 @@
 
 "@ruttl/mobile-sdk@./ruttl-mobile-sdk-2.0.0.tgz":
   version "2.0.0"
-  resolved "./ruttl-mobile-sdk-2.0.0.tgz#939beccb2212c20d62df2a67750cf42d7fd3a2bd"
+  resolved "./ruttl-mobile-sdk-2.0.0.tgz"
 
 "@sinclair/typebox@^0.27.8":
   version "0.27.10"
