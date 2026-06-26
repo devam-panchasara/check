@@ -1326,9 +1326,11 @@
     invariant "^2.2.4"
     nullthrows "^1.1.1"
 
-"@ruttl/mobile-sdk@./ruttl-mobile-sdk-2.0.0.tgz":
-  version "2.0.0"
-  resolved "./ruttl-mobile-sdk-2.0.0.tgz"
+"@ruttl/mobile-sdk@./ruttl-mobile-sdk-2.8.0.tgz":
+  version "2.8.0"
+  resolved "./ruttl-mobile-sdk-2.8.0.tgz#46e2dae28ce8c74c46c3cfe95768633291518137"
+  dependencies:
+    lucide-react-native "^1.21.0"
 
 "@sinclair/typebox@^0.27.8":
   version "0.27.10"
@@ -2079,9 +2081,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.5.376:
-  version "1.5.378"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.378.tgz#9ce9591ebed23e8a9119970305084b43a2906454"
-  integrity sha512-VinvOAuuPmdD1guEgGv5f2Qp7/vlfqOrUOMYNnOD4wj3pit8kRsQHzfIf6teyUGWo15Tg5+bOJaRunvyltpVWQ==
+  version "1.5.379"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.379.tgz#ccece5fdc4a19880b570a3903881701df848b763"
+  integrity sha512-v/qV5aV5EUA2pGilzUCq5/eyOloZAqDZBu9UMBIzgPpLlprjSR6zswsWBTv0KpqxLGUAZEwhO95ZCt7srymNVA==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -2846,6 +2848,11 @@ lru-cache@^5.1.1:
   integrity sha512-KpNARQA3Iwv+jTA0utUVVbrh+Jlrr1Fv0e56GGzAFOXN7dk/FviaDW8LHmK52DlcH4WP2n6gI8vN1aesBFgo9w==
   dependencies:
     yallist "^3.0.2"
+
+lucide-react-native@^1.21.0:
+  version "1.21.0"
+  resolved "https://registry.yarnpkg.com/lucide-react-native/-/lucide-react-native-1.21.0.tgz#7962eb1986506e4a14bf7d73c38a218e9d7dbdbc"
+  integrity sha512-kP5ZNvIPKDsdRz09GpB5rMC0uUwwF+yqUJZjRqLo0p+KRMu9mK6JavevxeHPSV0wbUGRLIZn+bGnf0d6Ufu8UQ==
 
 makeerror@1.0.12:
   version "1.0.12"
