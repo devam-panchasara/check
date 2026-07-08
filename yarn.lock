@@ -1328,7 +1328,13 @@
 
 "@ruttl/mobile-sdk@./ruttl-mobile-sdk-1.0.0.tgz":
   version "1.0.0"
-  resolved "./ruttl-mobile-sdk-1.0.0.tgz#7442fe1b2b5addd5421b22c1d0deb9017dd8ef43"
+  resolved "./ruttl-mobile-sdk-1.0.0.tgz#45347ab2e2d8b21e9cff85bf83549534f076a1b1"
+  dependencies:
+    lucide-react-native "^1.21.0"
+
+"@ruttl/mobile-sdk@file:./ruttl-mobile-sdk-1.0.0.tgz":
+  version "1.0.0"
+  resolved "file:./ruttl-mobile-sdk-1.0.0.tgz#84d311eb059a432f2365ae7a3d61060f7c7ab31a"
   dependencies:
     lucide-react-native "^1.21.0"
 
