@@ -16,9 +16,8 @@ export default function TabLayout() {
     <BugTrackingRoot
       // projectID="mfeq3gWkQEwR6wdOjIop"
       // token="6rAzmpUS2sRTWWK9RtFJ8XR2Mes2"
-
-       projectID="1Ph8tDnytxwZGVyBju7A"
-    token="vsirNGvN31gpoPsNz6YWLk6OFL92"
+      projectID="1Ph8tDnytxwZGVyBju7A"
+      token="vsirNGvN31gpoPsNz6YWLk6OFL92"
     >
       <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
         <AnimatedSplashOverlay />

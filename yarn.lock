@@ -1326,15 +1326,9 @@
     invariant "^2.2.4"
     nullthrows "^1.1.1"
 
-"@ruttl/mobile-sdk@file:../../Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz":
-  version "1.0.0"
-  resolved "file:../../Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz#dbadf81ade8624d79b62a5b5e3246f822b8230ed"
-  dependencies:
-    lucide-react-native "^1.21.0"
-
-"@ruttl/mobile-sdk@file:/Users/devam/Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz":
-  version "1.0.0"
-  resolved "file:/Users/devam/Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz#7442fe1b2b5addd5421b22c1d0deb9017dd8ef43"
+"@ruttl/mobile-sdk@file:../../Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.10.tgz":
+  version "1.0.10"
+  resolved "file:../../Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.10.tgz#c919e795e2a901f5043c0e9348f14b2efb3840da"
   dependencies:
     lucide-react-native "^1.21.0"
 
