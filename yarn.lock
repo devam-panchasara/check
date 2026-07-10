@@ -1326,9 +1326,16 @@
     invariant "^2.2.4"
     nullthrows "^1.1.1"
 
-"@ruttl/mobile-sdk@file:../../Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.2.tgz":
-  version "1.0.2"
-  resolved "file:../../Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.2.tgz#ecc985f9637574eb2313c9ba67d736f7a24a7336"
+"@ruttl/mobile-sdk@file:../../Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.9.tgz":
+  version "1.0.9"
+  resolved "file:../../Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.9.tgz#e09d1921cc25acb402b687029be984ad8a725419"
+  dependencies:
+    lucide-react-native "^1.21.0"
+
+"@ruttl/mobile-sdk@file:/Users/devam/Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.9.tgz":
+  version "1.0.9"
+  uid e09d1921cc25acb402b687029be984ad8a725419
+  resolved "file:/Users/devam/Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.9.tgz#e09d1921cc25acb402b687029be984ad8a725419"
   dependencies:
     lucide-react-native "^1.21.0"
 
@@ -2850,9 +2857,9 @@ lru-cache@^5.1.1:
     yallist "^3.0.2"
 
 lucide-react-native@^1.21.0:
-  version "1.23.0"
-  resolved "https://registry.yarnpkg.com/lucide-react-native/-/lucide-react-native-1.23.0.tgz#d3a3057997310ffd6a212492264f460a962a7e15"
-  integrity sha512-lVPNyML/tJ1gj1m1QDbP4O/vZTs1cBa0+g4F8/Jjt5QcJ9H7BYbs2qRtQbngE+VH8I6CvHbtfRW9QbtGUTHSyg==
+  version "1.24.0"
+  resolved "https://registry.yarnpkg.com/lucide-react-native/-/lucide-react-native-1.24.0.tgz#165498e47aff0b570a8655333f4743ebf9991703"
+  integrity sha512-4nfHfK75Azty3bilbuW1tzgi0kqG4eHFIex7x2hP2MMNM4CuRDo9+4PEtKKoImXiFSMc7J0BeOixZlz6Ucm9VA==
 
 makeerror@1.0.12:
   version "1.0.12"

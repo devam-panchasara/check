@@ -9,14 +9,17 @@ export default function TabLayout() {
   const colorScheme = useColorScheme();
   return (
     //live projects
+    // <BugTrackingRoot
+    //   projectID="A8WDdHuCZhJCIrifxHWd"
+    //   token="BD7KAqd0O2hhJcSkoF8N8pBZaKS2"
+    // >
     <BugTrackingRoot
-      projectID="A8WDdHuCZhJCIrifxHWd"
-      token="BD7KAqd0O2hhJcSkoF8N8pBZaKS2"
+      // projectID="mfeq3gWkQEwR6wdOjIop"
+      // token="6rAzmpUS2sRTWWK9RtFJ8XR2Mes2"
+
+       projectID="1Ph8tDnytxwZGVyBju7A"
+    token="vsirNGvN31gpoPsNz6YWLk6OFL92"
     >
-      {/* <BugTrackingRoot
-      projectID="mfeq3gWkQEwR6wdOjIop"
-      token="6rAzmpUS2sRTWWK9RtFJ8XR2Mes2"
-    > */}
       <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
         <AnimatedSplashOverlay />
         <AppTabs />
