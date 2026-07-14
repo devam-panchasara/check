@@ -1326,9 +1326,9 @@
     invariant "^2.2.4"
     nullthrows "^1.1.1"
 
-"@ruttl/mobile-sdk@file:../../Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.10.tgz":
-  version "1.0.10"
-  resolved "file:../../Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.10.tgz#c919e795e2a901f5043c0e9348f14b2efb3840da"
+"@ruttl/mobile-sdk@file:/Users/devam/Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.4.tgz":
+  version "1.0.4"
+  resolved "file:/Users/devam/Documents/Brucira/Projects/Plugin Projects/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.4.tgz#8f5ba28c2597c73fd6482a190f58ea28f06a19ec"
   dependencies:
     lucide-react-native "^1.21.0"
 

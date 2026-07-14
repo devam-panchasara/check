@@ -14,10 +14,10 @@ export default function TabLayout() {
     //   token="BD7KAqd0O2hhJcSkoF8N8pBZaKS2"
     // >
     <BugTrackingRoot
-      // projectID="mfeq3gWkQEwR6wdOjIop"
-      // token="6rAzmpUS2sRTWWK9RtFJ8XR2Mes2"
-      projectID="1Ph8tDnytxwZGVyBju7A"
-      token="vsirNGvN31gpoPsNz6YWLk6OFL92"
+      projectID="fuWLZseR4GawxhpPJERC"
+      token="AQZ6EAkeHnNz0j7huWCssgTMSsd2"
+      // projectID="1Ph8tDnytxwZGVyBju7A"
+      // token="vsirNGvN31gpoPsNz6YWLk6OFL92"
     >
       <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
         <AnimatedSplashOverlay />
